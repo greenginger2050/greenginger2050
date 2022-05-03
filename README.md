@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @greenginger2050
 - 👀 I’m interested in learning data science..
 - 🌱 I’m currently learning PowerBI, tableau, Python and statistics
-- 💞️ I’m looking to collaborate on real projects
+- 💞️ I’m looking to collaborate on learning and real projects
 - 📫 Reach me on the github portal
 
 <!---
